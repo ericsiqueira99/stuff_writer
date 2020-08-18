@@ -31,7 +31,7 @@ h = 70
 x = (ws / 2) - (w / 2)
 y = (hs / 2) - (h / 2)
 
-# define app
+# define app settings
 app_title = "Essay Maker"
 app_icon = "book.ico"
 app_size = "%dx%d+%d+%d" % (w, h, x, y)
